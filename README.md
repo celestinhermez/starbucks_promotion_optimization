@@ -31,6 +31,7 @@ Starbucks dataset
 * **train.csv**: the training data provided by Starbucks
 * **Test.csv**: the test data provided by Starbucks that Udacity uses in their scoring
 script
+* **LICENSE**: a license for personal and commercial use
 * **test_results.py**: a scoring script provided by Udacity to determine the IRR and
 NIR of the promotional strategy on the test dataset
 
@@ -42,7 +43,15 @@ or simply download the HTML version of the notebook.
 The main takeaways:
 * using several statistical tests we determined the promotion had a positive impact on 
 both metrics of interest
-* using a decision tree classifier (build with scikit-learn), we devised a promotional
-strategy which outperformed Udacity's benchmark both in terms of IRR and NIR
+* using a decision tree classifier (built with scikit-learn), we devised a promotional
+strategy which outperformed Udacity's benchmark both in terms of IRR and NIR (NOTE: the
+specific IRR and NIR values obtained by running the notebook may vary slightly because
+of how the model is built and scoring happens, but this strategy consistently outperforms
+Udacity's).
 
-## License
+## Credit
+
+The data was provided by Udacity as part of their Data Scientist Nanodegree.
+They also provided the initial prompt for the exercise, along with the logo and 
+mathematical definitions for the metrics of interest.
+
