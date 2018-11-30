@@ -19,8 +19,6 @@ The necessary libraries to run this project, along with Python 3.6:
 * statsmodels
 * sklearn
 * scipy
-* IPython
-* graphviz
 * matplotlib
 * itertools
 
