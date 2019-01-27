@@ -9,7 +9,7 @@ The goal of this repository is to display how to analyze an experiment,
 and how to leverage the results to optimize a promotional strategy 
 which can yield positive results for the company.
 
-Udacity provided a script assess the promotional strategy devised.
+Udacity provided a script to assess the promotional strategy devised.
 
 ## Installation
 
